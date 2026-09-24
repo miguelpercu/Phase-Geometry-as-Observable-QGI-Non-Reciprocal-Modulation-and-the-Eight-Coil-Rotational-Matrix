@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "title": "Phase-Based Gravitational Dynamics and Synthetic Metrics: An Epistemic Analysis of Quantum Interferometry and Spatio-Temporal Modulation in the Context of UAT/UPC",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "description": "<p>Recent experimental developments provide important empirical context for phase-based approaches to physical dynamics. The direct measurement of quantum phase accumulation during free fall using a Quantum Galileo Interferometer (QGI) reported by Dobkowski et al., <em>Science Advances</em> (2026) DOI: 10.1126/sciadv.adj8028, demonstrates that gravitational dynamics can be directly encoded in a measurable φ ∝ T³ phase evolution. Independently, the realization of magnetic-free non-reciprocity through parametric phase modulation reported by Estep, Sounas, Soric, and Alù, <em>Nature Physics</em> (2014) DOI: 10.1038/nphys3134, demonstrates that the relative temporal phase of spatially distributed resonators (120° for N=3) can generate synthetic angular momentum and modify collective dynamics.</p>\n\n<p><strong>These results do NOT validate the Universal Applied Time (UAT) or Unified Principle of Causality (UPC) frameworks.</strong> Both experiments were developed and interpreted within established physical frameworks and address specific experimental questions unrelated to the validation of UAT/UPC. Nevertheless, they provide robust experimental precedents for treating discrete phase geometry and temporal modulation as primary experimental variables.</p>\n\n<p>Within this context, this work analyzes the eight-coil rotational matrix developed under the UAT/UPC program as an exploratory macroscopic platform. The system implements a synthetic rotational configuration with discrete phase increment Δφ = 2π/8 = π/4 = 45°, where physical coil opposition is replaced by controlled phase relationships. For eight ideal equal-amplitude components, S₈ = Σ A e^{i(φ₀+kπ/4)} = 0. Any measured residual S_res ≠ 0 must therefore be decomposed into instrumental, phase, frequency, electronic, and potentially structural contributions.</p>\n\n<p>During development, a candidate residual R ≃ 0.2971 was identified under phase/frequency confrontation, alongside a central-coil RMS scale RMS₀ ≃ 0.707001 ≈ 1/√2. Both values are treated strictly as <strong>candidate invariants</strong> requiring independent reproduction. This work explicitly defines the falsification protocol (Test 1: ideal signals R=0, Test 2: real channels, Test 3: random permutation, Test 4: phase inversion, Test 5: frequency variation R(f)) and the hypotheses H₀: residual explained by systematics vs H₁: R ≈ 0.2971 persists after controls.</p>\n\n<p>The detector, calibration code and methodology are documented in the 8+1 coil report: 10.5281/zenodo.19646349</p>\n\n<p><strong>Epistemic boundaries:</strong> Dobkowski et al. and Alù et al. do not validate UAT/UPC. Conceptual convergence ≠ confirmation.</p>",
+    "creators": [
+      {
+        "name": "Percudani, Miguel A.",
+        "affiliation": "Independent Researcher, Argentina",
+        "orcid": "0009-0007-1748-3212"
+      }
+    ],
+    "keywords": [
+      "quantum phase",
+      "gravitational interferometry",
+      "Quantum Galileo Interferometer",
+      "spatio-temporal modulation",
+      "non-reciprocity",
+      "synthetic gauge field",
+      "eight-coil detector",
+      "rotational coherence",
+      "UAT",
+      "UPC",
+      "falsifiability",
+      "phase geometry"
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.17729221",
+        "relation": "isSupplementedBy",
+        "resource_type": "publication-preprint",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.18210808",
+        "relation": "isSupplementedBy",
+        "resource_type": "publication-preprint",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.18446712",
+        "relation": "isSupplementedBy",
+        "resource_type": "software",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.19646349",
+        "relation": "isSupplementedBy",
+        "resource_type": "publication-technicalnote",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.1038/nphys3134",
+        "relation": "references",
+        "resource_type": "publication-article",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.1126/sciadv.adj8028",
+        "relation": "references",
+        "resource_type": "publication-article",
+        "scheme": "doi"
+      }
+    ],
+    "license": "cc-by-4.0",
+    "language": "eng",
+    "access_right": "open"
+  }
+}
